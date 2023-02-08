@@ -1,2 +1,0 @@
-hy
-alx is intresting
